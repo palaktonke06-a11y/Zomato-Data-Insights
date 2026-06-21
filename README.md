@@ -32,6 +32,7 @@ This project analyzes Zomato restaurant data to uncover meaningful business insi
 
 ## 📂 Project Structure
 
+```
 Zomato-Data-Insights/
 │
 ├── Dataset/
@@ -49,7 +50,7 @@ Zomato-Data-Insights/
 ├── requirements.txt
 │
 └── README.md
-
+```
 
 ## 📊 Exploratory Data Analysis
 
