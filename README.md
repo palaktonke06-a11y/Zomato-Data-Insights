@@ -45,9 +45,9 @@ Feature Analysis
 Data Visualization
       │
       ▼
-Business Insights
+Business Insights```
 
-
+## 📂 Project Structure
 Zomato-Data-Insights/
 │
 ├── Dataset/
