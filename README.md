@@ -26,7 +26,6 @@ This project analyzes Zomato restaurant data to uncover meaningful business insi
 
 ## 🔄 Project Workflow
 
-```text
 Raw Dataset
       │
       ▼
@@ -43,7 +42,7 @@ Data Visualization
       │
       ▼
 Business Insights
-```
+
 ## 📂 Project Structure
 
 Zomato-Data-Insights/
