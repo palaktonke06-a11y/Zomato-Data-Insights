@@ -26,9 +26,6 @@ This project analyzes Zomato restaurant data to uncover meaningful business insi
 
 ## 🔄 Project Workflow
 
-
-Sabse professional version ye lagta hai:
-
 ```text
 📥 Dataset  ➜  🧹 Cleaning  ➜  🔧 Missing Values  ➜  📊 EDA  ➜  📈 Visualization  ➜  💡 Insights
 ```
@@ -49,9 +46,13 @@ Zomato-Data-Insights/
 ├── notebooks/
 │   └── Zomato_EDA.ipynb
 │
+├── requirements.txt
+│
 └── README.md
 
+
 ## 📊 Exploratory Data Analysis
+
 ⭐ Rating Distribution
 
 Understanding how restaurants are distributed across different rating categories.
@@ -68,6 +69,7 @@ Examining the impact of online ordering on restaurant popularity.
 
 Identifying restaurant concentration and performance across locations.
 
+
 ## 📈 Key Insights
 
 -Most restaurants fall within mid-range ratings.
@@ -75,6 +77,7 @@ Identifying restaurant concentration and performance across locations.
 -Online ordering is offered by a significant portion of restaurants.
 -Cost distribution shows a concentration in affordable and mid-range segments.
 -Customer preferences vary significantly across locations.
+
 
 ## 🛠️ Technologies Used
 
@@ -86,6 +89,7 @@ Identifying restaurant concentration and performance across locations.
 | Matplotlib       | Visualization           |
 | Seaborn          | Statistical Charts      |
 | Jupyter Notebook | Development Environment |
+
 
 ## 🚀 How to Run
 git clone YOUR_REPOSITORY_LINK
