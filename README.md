@@ -13,6 +13,9 @@
 
 This project analyzes Zomato restaurant data to uncover meaningful business insights through data visualization and statistical exploration.
 
+## 🌐Link : Jupyter Notebook Link: Zomato_EDA.ipynb
+git clone [https://github.com/palaktonke06-a11y/Zomato-Data-Insights.git]
+
 ### Objectives
 - Data Cleaning & Preprocessing
 - Missing Value Handling
@@ -91,11 +94,20 @@ Identifying restaurant concentration and performance across locations.
 | Seaborn          | Statistical Charts      |
 | Jupyter Notebook | Development Environment |
 
+---
 
-## 🚀 How to Run
-git clone YOUR_REPOSITORY_LINK
+## 👨‍💻 Author
 
-cd Zomato-Data-Insights
+**Palak Tonke**
 
+Aspiring **Data Scientist** passionate about transforming raw data into meaningful insights through Data Analysis, Exploratory Data Analysis (EDA), Machine Learning, and Data Visualization.
 
+### Connect With Me
+
+* GitHub: YOUR_GITHUB_PROFILE_LINK
+* LinkedIn: YOUR_LINKEDIN_PROFILE_LINK
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
 
