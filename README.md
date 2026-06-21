@@ -13,8 +13,8 @@
 
 This project analyzes Zomato restaurant data to uncover meaningful business insights through data visualization and statistical exploration.
 
-## 🌐Link : Jupyter Notebook Link: Zomato_EDA.ipynb
-git clone [https://github.com/palaktonke06-a11y/Zomato-Data-Insights.git]
+## 🌐Link : https://github.com/palaktonke06-a11y/Zomato-Data-Insights.git
+Jupyter Notebook Link: Zomato_EDA.ipynb
 
 ### Objectives
 - Data Cleaning & Preprocessing
